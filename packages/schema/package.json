@@ -51,7 +51,7 @@
     "esbuild": "0.25.9",
     "esbuild-loader": "4.3.0",
     "file-loader": "6.2.0",
-    "h3": "1.15.4",
+    "h3": "1.15.9",
     "hookable": "5.5.3",
     "ignore": "7.0.5",
     "mini-css-extract-plugin": "2.9.4",
@@ -71,7 +71,7 @@
     "vue-bundle-renderer": "2.1.2",
     "vue-loader": "17.4.2",
     "vue-router": "4.5.1",
-    "webpack": "5.101.3",
+    "webpack": "5.104.1",
     "webpack-dev-middleware": "7.4.3"
   },
   "dependencies": {
